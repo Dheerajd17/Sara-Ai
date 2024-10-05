@@ -61,9 +61,4 @@ I would like to thank the following libraries and APIs for their contributions t
 -   `openai`
 
 I would also like to thank my friends and family for their support and encouragement.
-
-**Contact:**
-
-If you have any questions or suggestions, please feel free to contact me at [email protected].
-
 Thank you for using Sara AI!
