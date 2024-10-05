@@ -19,7 +19,7 @@ The project integrates multiple libraries and APIs to provide a comprehensive an
 1.  Clone the repository:
 
 ```
-git clone https://github.com/your-username/sara-ai
+git clone https://github.com/Dheerajd17/Sara-Ai-Assistant
 
 ```
 
